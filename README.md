@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi :) 👋
 
-<!--
-**aaarel/aaarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. My day-to-day background is in cloud infrastructure, platform engineering, and Kubernetes operations. In my spare time, I enjoy tinkering with local AI models, building small multi-agent experiments, and contributing minor fixes and documentation improvements to open-source projects I use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On & Exploring
+
+* **[aaarel/local-gemma-harness-and-swarm](https://github.com/aaarel/local-gemma-harness-and-swarm)** — A personal project and testing harness for experimenting with local Gemma models and lightweight multi-agent workflows.
+* **Cloud & Platform Engineering** — Hands-on work with Kubernetes (GKE), infrastructure-as-code, cloud networking, and observability setups (including past tutorial contributions to [GoogleCloudPlatform/gke-monitoring-tutorial](https://github.com/GoogleCloudPlatform/gke-monitoring-tutorial)).
+* **Community & Open-Source Contributions** — Submitting small documentation cleanups, bug fixes, and quality-of-life improvements to AI and cloud repositories like [google/adk-python](https://github.com/google/adk-python) and [googleapis/python-genai](https://github.com/googleapis/python-genai).
+
+---
+
+### Areas of Interest
+
+`Cloud Infrastructure` · `Platform Engineering` · `Kubernetes` · `DevOps & Observability` · `Local LLMs & Agent Workflows` · `Python`
+
+---
+
