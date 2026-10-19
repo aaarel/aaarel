@@ -1,6 +1,7 @@
 ## Hi :) 👋
 
-Welcome to my GitHub profile. My day-to-day background is in cloud infrastructure, platform engineering, and Kubernetes operations. In my spare time, I enjoy tinkering with local AI models, building small multi-agent experiments, and contributing minor fixes and documentation improvements to open-source projects I use.
+Welcome to my GitHub profile. My day-to-day background is in cloud infrastructure, platform engineering, Kubernetes operations and software, I also lead the internal Cloud Networking community in Google. 
+In my spare time, I enjoy tinkering with local AI models, building small multi-agent experiments, building web games, and contributing minor fixes and documentation improvements to open-source projects I use.
 
 ---
 
